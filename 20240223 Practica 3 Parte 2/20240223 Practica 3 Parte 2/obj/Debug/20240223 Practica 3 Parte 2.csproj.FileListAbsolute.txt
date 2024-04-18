@@ -1,0 +1,8 @@
+c:\users\admin\documents\visual studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\bin\Debug\20240223 Practica 3 Parte 2.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\bin\Debug\20240223 Practica 3 Parte 2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\bin\Debug\20240223 Practica 3 Parte 2.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\obj\Debug\_20240223_Practica_3_Parte_2.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\obj\Debug\_20240223_Practica_3_Parte_2.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\obj\Debug\20240223 Practica 3 Parte 2.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\obj\Debug\20240223 Practica 3 Parte 2.exe
+C:\Users\admin\Documents\Visual Studio 2012\Projects\20240223 Practica 3 Parte 2\20240223 Practica 3 Parte 2\obj\Debug\20240223 Practica 3 Parte 2.pdb
